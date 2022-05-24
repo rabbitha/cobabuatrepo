@@ -1,1 +1,5 @@
-Ini adalah tugas pertama. Belum direvisi.
+Ini adalah tugas pertama.
+
+Sekarang sudah revisi.
+
+Mohon dicek lagi.
